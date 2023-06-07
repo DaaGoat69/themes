@@ -131,8 +131,8 @@
             "#44ddd5"
         ],
         "KEYBOARD": [
-            "#081924",
-            "#081924"
+            "#8B0000",
+            "#8B0000"
         ],
         "CHANNEL_ICON": [
             "#ffffff",
@@ -169,5 +169,5 @@
     "url": "https://media.discordapp.net/attachments/1109644648303042594/1115015090337480756/Screenshot_20230531-1417342.png",
     "alpha": 0.7
     },
-    "color": "#081924"
+    "color": "#0FF5733"
 }
