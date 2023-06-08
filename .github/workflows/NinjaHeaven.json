@@ -124,12 +124,12 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_600": "#FF2602",
-    "PRIMARY_500": "#FF2602",
-    "PRIMARY_630": "#7f1301",
-    "PRIMARY_800": "#7f1301",
-    "BRAND_260": "#984233",
-    "BRAND_360": "#984233",
+    "PRIMARY_600": "#ef9292",
+    "PRIMARY_500": "#ef9292",
+    "PRIMARY_630": "#de5e5e",
+    "PRIMARY_800": "#de5e5e",
+    "BRAND_260": "#ef9292",
+    "BRAND_360": "#ef9292",
     "WHITE": "#FFFFFF",
     "RED_260": "#DE3163",
     "GREEN_600": "#FFB6C1",
